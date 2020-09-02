@@ -1,0 +1,5 @@
+* @DanielBjorkman82
+*.js @front-end-team
+docs/* @tech-doc-team
+/qa/ @testers
+*.md @DanielBjorkman82
